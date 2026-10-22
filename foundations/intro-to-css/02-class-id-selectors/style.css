@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.oddNum {
+    background-color: #FF7F7F;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#evenID {
+    color: blue;
+    font-size: 36px;
+}
+#anotherEven {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.oddNum.cooler {
+    background-color: #FF7F7F;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+    font-size: 24px;
+}
